@@ -1,0 +1,15 @@
+14/03/2022 20:32:31 - https://g1.globo.com- online: true
+14/03/2022 20:32:32 - http://www.uol.com.br- online: true
+14/03/2022 20:32:32 - https://www.google.com.br- online: true
+14/03/2022 20:32:35 - https://g1.globo.com- online: true
+14/03/2022 20:32:35 - http://www.uol.com.br- online: true
+14/03/2022 20:32:35 - https://www.google.com.br- online: true
+14/03/2022 20:32:38 - https://g1.globo.com- online: true
+14/03/2022 20:32:38 - http://www.uol.com.br- online: true
+14/03/2022 20:32:39 - https://www.google.com.br- online: true
+14/03/2022 20:32:42 - https://g1.globo.com- online: true
+14/03/2022 20:32:42 - http://www.uol.com.br- online: true
+14/03/2022 20:32:42 - https://www.google.com.br- online: true
+14/03/2022 20:32:45 - https://g1.globo.com- online: true
+14/03/2022 20:32:45 - http://www.uol.com.br- online: true
+14/03/2022 20:32:45 - https://www.google.com.br- online: true
